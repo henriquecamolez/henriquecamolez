@@ -1,16 +1,55 @@
-# 💫 About Me:
-💻 Experiência em Java, Spring Boot, Hibernate, REST APIs  <br>- 🔧 Adoro desafios complexos e otimizar sistemas  <br>- 🎯 Foco em performance, segurança e escalabilidade  <br>- 📚 Sempre aprendendo e evoluindo minhas skills
+Henrique Camolez
+<p align="center"> <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="600"> </p>
+> Booting system...
+> Loading developer profile...
+> Authenticating...
+> Access Granted ✔
+
+Resume
+whoami
+
+Sou desenvolvedor focado em backend, estudando arquitetura de software e desenvolvimento de APIs.
+
+Gosto de construir projetos práticos para resolver problemas reais e evoluir constantemente minhas habilidades em programação.
+
+Atualmente focado em:
+
+💻 C# / .NET
+ APIs REST
+ Banco de Dados
+ Angular (aprendendo)
+
+Tecnologias
+Java
+Oracle SQL
+Estatísticas do GitHub
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquecamolez&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecamolez&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> </p>
 
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=henriquecamolez&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=henriquecamolez&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecamolez&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+cat philosophy.txt
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=henriquecamolez&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+> Se algo pode quebrar, pode ser melhorado;
+> Se algo pode repetir, pode ser automatizado;
+> Se algo incomoda, pode virar código;
+> Se virou código... agora o bug é meu problema.
 
+ Terminal
+henrique@github:~$ skills --list
 
+✔ C#
+✔ .NET
+✔ SQL
+✔ APIs
+✔ Backend
+✔ Learning Angular
 
+henrique@github:~$ status
+
+> building
+> learning
+> evolving
+
+ GitHub
+https://github.com/henriquecamolez
