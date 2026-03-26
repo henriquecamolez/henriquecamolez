@@ -28,8 +28,8 @@ Java
 Oracle SQL
 Estatísticas do GitHub
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquecamolez&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecamolez&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=henriquecamolez&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=henriquecamolez&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> </p>
