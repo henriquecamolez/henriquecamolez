@@ -1,11 +1,15 @@
-Henrique Camolez
-<p align="center"> <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="600"> </p>
+🍕 Henrique Camolez
+
+<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFtZ3cxNXlmZmpvdG50bXIyN3h0dnJ0anE3NWVxdzQxd2w4cDdiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/65n8RPEa3r65q/giphy.gif" width="600"> </p>
+
+
 > Booting system...
 > Loading developer profile...
 > Authenticating...
 > Access Granted ✔
 
 Resume
+
 whoami
 
 Sou desenvolvedor focado em backend, estudando arquitetura de software e desenvolvimento de APIs.
@@ -23,7 +27,10 @@ Tecnologias
 Java
 Oracle SQL
 Estatísticas do GitHub
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquecamolez&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecamolez&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquecamolez&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecamolez&layout=compact&theme=tokyonight"/>
+</p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> </p>
 
