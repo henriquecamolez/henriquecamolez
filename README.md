@@ -26,6 +26,8 @@ Atualmente focado em:
 Tecnologias
 Java
 Oracle SQL
+
+
 Estatísticas do GitHub
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=henriquecamolez&theme=tokyonight&hide_border=true"/>
