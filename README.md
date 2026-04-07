@@ -1,22 +1,8 @@
-🍕 Henrique Camolez
-
-<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFtZ3cxNXlmZmpvdG50bXIyN3h0dnJ0anE3NWVxdzQxd2w4cDdiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/65n8RPEa3r65q/giphy.gif" width="600"> </p>
-
-
-> Booting system...
-> Loading developer profile...
-> Authenticating...
-> Access Granted ✔
-
-Resume
-
-whoami
 
 Sou desenvolvedor focado em backend, estudando arquitetura de software e desenvolvimento de APIs.
 
 Gosto de construir projetos práticos para resolver problemas reais e evoluir constantemente minhas habilidades em programação.
 
-Atualmente focado em:
 
 💻 C# / .NET
  APIs REST
@@ -43,21 +29,6 @@ cat philosophy.txt
 > Se algo incomoda, pode virar código;
 > Se virou código... agora o bug é meu problema.
 
- Terminal
-henrique@github:~$ skills --list
-
-✔ C#
-✔ .NET
-✔ SQL
-✔ APIs
-✔ Backend
-✔ Learning Angular
-
-henrique@github:~$ status
-
-> building
-> learning
-> evolving
 
  GitHub
 https://github.com/henriquecamolez
