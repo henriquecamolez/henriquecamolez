@@ -6,12 +6,16 @@ Gosto de construir projetos práticos para resolver problemas reais e evoluir co
 
 💻 C# / .NET
  APIs REST
+ 
  Banco de Dados
- Angular (aprendendo)
+ 
+ Angular 
 
 Tecnologias
+
 Java
 Oracle SQL
+SQL Server
 
 
 Estatísticas do GitHub
